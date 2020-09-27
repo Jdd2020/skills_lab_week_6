@@ -5,3 +5,5 @@ The python program attached to the project takes a user's name and profession an
 slowly prints out the compination of the two letter by ltter, creatinga some what 
 satisfying presentation on the console.
 
+Group Members: 
+James Duty
