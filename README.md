@@ -1,4 +1,4 @@
-# skills_lab_week_6
+# skills_lab_week_7
 This a repository for the skills lab in week 6 of the CMPINF0010 course.
 
 The python program attached to the project takes a user's name and profession and
