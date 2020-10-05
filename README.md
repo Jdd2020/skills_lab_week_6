@@ -24,6 +24,6 @@ the project. When contributing or using our code in the project, please follow o
 Both the code of conduct and license agreement can be found in the files of this repository.
 
 ## Group Members: 
-James Duty
-Yuqing Zhang
+James Duty,
+Yuqing Zhang,
 Ian Murday
