@@ -2,21 +2,17 @@
 This a repository for the skills lab in week 7 of the CMPINF0010 course.
 
 ## Description
-The python program attached to the project takes a user's name and profession and
-slowly prints out the combination of the two letter by letter, creating a somewhat 
-satisfying presentation on the console.
-Also, nameAndAge takes in user name and age and tells you how old you will be in 17 years.
+The python program attached to the project first tells the user what the program does and then asks whether
+the user wants to enter frequency or wavelength. Once the user enters that question it prompts for a value to be entered.
+Then the program goes through a long if-chain to figure out what type of wave was entered and then prints the type of wave to the user.
 
-## Intallation
-The programs can be used by simply dowloading the Python files and using the Python shell to run them.
+## Intsallation
+The programs can be used by simply dowloading the Python file and using the Python shell to run them.
+After, all that needs to be done is entering the values that are being prompted for.
 
 ## Usage
-The first Python program takes a two String inputs, name and title, and prints to the user console one letter interation.
-Specifically you enter your first input using keyboard input and then hit enter ENTER. You then repeat this for the second
-input and your output is printed.
-
-The second Python program takes String and integer input in a similar process to the first program. To finalize each keyboard
-input, use the ENTER key. After going through this process, the output is printed.
+This program could be used to quickely figure out the type of wave something is after observing its wavelenght of frequencie.
+This could be used in real lab aplications or for something as simple as homework.
 
 ## Contribution
 You can help this project by expanding the uses of this code to include more functions or build a better way to import 
