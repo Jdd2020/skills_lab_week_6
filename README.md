@@ -20,7 +20,8 @@ input, use the ENTER key. After going through this process, the output is printe
 
 ## Contribution
 You can help this project by expanding the uses of this code to include more functions or build a better way to import 
-the project.
+the project. When contributing or using our code in the project, please follow our code of conduct and license agreement.
+Both the code of conduct and license agreement can be found in the files of this repository.
 
 ## Group Members: 
 James Duty
