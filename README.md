@@ -11,7 +11,7 @@ The programs can be used by simply dowloading the Python file and using the Pyth
 After, all that needs to be done is entering the values that are being prompted for.
 
 ## Usage
-This program could be used to quickely figure out the type of wave something is after observing its wavelenght of frequencie.
+This program could be used to quickly figure out the type of wave something after observing its wavelength of frequencies.
 This could be used in real lab aplications or for something as simple as homework.
 
 ## Contribution
